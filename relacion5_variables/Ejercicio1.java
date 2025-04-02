@@ -13,6 +13,7 @@ public class Ejercicio1 {
         byte valor=0x02;
         boolean primero=true , ultimo=false;
         String nombre="Ibrahim" ;
+       
         
        
     
